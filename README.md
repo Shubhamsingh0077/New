@@ -1,4 +1,5 @@
-# New
+**Patients Emergency Room Visit Report Analysis**
+
 **Objective**
 
 This project aims to provide a comprehensive analysis of patients' emergency room (ER) visits. By leveraging data visualization techniques, the dashboard helps healthcare administrators and analysts understand key trends, patterns, and metrics related to ER usage. The ultimate goal is to enable data-driven decisions that improve patient care, optimize ER operations, and reduce unnecessary visits.
